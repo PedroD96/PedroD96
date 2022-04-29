@@ -37,10 +37,11 @@
 
 <div>
 <a href="https://github.com/PedroD96">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroD96&layout=compact&langs_count=7&theme=highcontrast"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=PedroD96&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroD96&layout=compact&langs_count=7&theme=highcontrast"/>
+<img height="145em" src="https://github-readme-stats.vercel.app/api?username=PedroD96&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </div>
 
-[highcontrast_repo]: https://github-readme-stats.vercel.app/api/pin/?username=PedroD96&repo=github-readme-stats&cache_seconds=86400&theme=highcontrast
 
  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroD96&theme=highcontrast&repo=ESTR_DADOS_EM_C)](https://github.com/PedroD96/ESTR_DADOS_EM_C)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroD96&theme=highcontrast&repo=python3-curso-em-video)](https://github.com/PedroD96/python3-curso-em-video)
