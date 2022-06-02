@@ -19,7 +19,7 @@
 :outbox_tray: 2022 Goals:                           
 - Assemble my portfolio
 - Learn C# well
-- Learn JAVA
+- Learn ANGULAR JS - ANGULAR 9 
 - Participate in a project within the company where I do an internship.
 
 ## About me
