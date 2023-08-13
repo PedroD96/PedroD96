@@ -8,9 +8,7 @@
 
 💻 I'm a backend developer and project manager!
 
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/326/flag-brazil_1f1e7-1f1f7.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/whatsapp/326/flag-brazil_1f1e7-1f1f7.png 2x" alt="Flag: Brazil on WhatsApp 2.22.8.79" 
-     width="20" height="20" 
-      > I’m from Brazil.
+<img src="https://em-content.zobj.net/source/facebook/355/flag-brazil_1f1e7-1f1f7.png" srcset="https://em-content.zobj.net/source/facebook/355/flag-brazil_1f1e7-1f1f7.png" alt="Flag: Brazil on WhatsApp 2.22.8.79" width="20" height="20" > I’m from Brazil.
 
 :books: I'm currently learning a little bit of everything.
 
