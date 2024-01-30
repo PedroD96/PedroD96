@@ -12,13 +12,12 @@
 
 :books: I'm currently learning a little bit of everything.
 
-🎯 My focus at the moment is on languages: <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></code> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="20" height="20" /></code>
+🎯 My focus at the moment is on languages: <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"  width="20" height="20" /></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/></code>
 
-:outbox_tray: 2022 Goals:                           
-- Assemble my portfolio
-- Learn C# well
-- Learn ANGULAR JS - ANGULAR 9 
-- Participate in a project within the company where I do an internship.
+:outbox_tray: 2024 Goals:                           
+- Developing a mobile app
+- Building a website
+- Consolidating knowledge of software architecture
 
 ## About me
 
