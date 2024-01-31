@@ -6,7 +6,7 @@
 
  
 
-💻 I'm a backend developer and project manager!
+💻 I'm a backend developer!
 
 <img src="https://em-content.zobj.net/source/facebook/355/flag-brazil_1f1e7-1f1f7.png" srcset="https://em-content.zobj.net/source/facebook/355/flag-brazil_1f1e7-1f1f7.png" alt="Flag: Brazil on WhatsApp 2.22.8.79" width="20" height="20" > I’m from Brazil.
 
