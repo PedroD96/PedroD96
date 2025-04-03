@@ -1,7 +1,5 @@
 Backend Developer / Software Engineer 💻  <img src="https://em-content.zobj.net/source/facebook/355/flag-brazil_1f1e7-1f1f7.png" srcset="https://em-content.zobj.net/source/facebook/355/flag-brazil_1f1e7-1f1f7.png" alt="Flag: Brazil on WhatsApp 2.22.8.79" width="20" height="20" > 
 
-🎯 My focus at the moment: <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"  width="20" height="20" /></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/></code>
-
 ## About me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroduarte96/)](https://www.linkedin.com/in/pedroduarte96/)
