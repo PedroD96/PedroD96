@@ -5,7 +5,7 @@ Passionate developer focused on solving real-world problems through code. Curren
 
 - 🌱 I’m currently learning **Software Architecture, Cloud Computing, Flutter, and more.**
 - 💬 Ask me about: **.NET, Python, Flutter, React, JavaScript, and more.**
-- 📧 Contato: pedro.duartebhmg96@gmail.com
+- 📧 Reach me at: pedro.duartebhmg96@gmail.com
 
 ---
 
